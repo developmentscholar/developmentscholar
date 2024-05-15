@@ -3,8 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/email-link?style=for-the-badge&logo=microsoftoutlook&logoColor=blue&label=developmentscholar&labelColor=white&color=blue&link=developmentscholar%40outlook.com
-  " alt="Outlook Badge"/>
+  <img src="https://img.shields.io/badge/email-link?style=for-the-badge&logo=microsoftoutlook&logoColor=blue&label=developmentscholar&labelColor=white&color=blue&link=developmentscholar%40outlook.com" alt="Outlook Badge"/>
 </div>
 
 <div id="views-counter" align="center">
